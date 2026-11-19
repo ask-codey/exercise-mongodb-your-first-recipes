@@ -1,0 +1,19 @@
+{
+  "name": "exercise-mongodb-your-first-recipes",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test \"test/*.test.js\""
+  },
+  "devDependencies": {
+    "mongodb": "7.9.0",
+    "mongodb-memory-server": "11.3.0"
+  },
+  "config": {
+    "mongodbMemoryServer": {
+      "version": "9.0.8",
+      "disablePostinstall": "true",
+      "systemBinaryVersionCheck": "false"
+    }
+  }
+}

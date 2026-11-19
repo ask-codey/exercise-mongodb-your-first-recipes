@@ -1,0 +1,5 @@
+[
+  {"name": "Saturday Pancakes", "meal": "breakfast", "minutes": 25},
+  {"name": "Weeknight Chili", "meal": "dinner", "minutes": 45},
+  {"name": "Lemon Bars", "meal": "dessert", "minutes": 50}
+]
